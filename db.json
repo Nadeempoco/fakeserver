@@ -1,0 +1,54 @@
+{
+  "events": [
+    {
+      "id": 111,
+      "category": "training",
+      "title": "Welcome Event",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "location": "Some Hub",
+      "date": "20 August 2022",
+      "time": "16:30",
+      "organizer": "Team Happy"
+    },
+    {
+      "id": 112,
+      "category": "training",
+      "title": "Followup Event",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "location": "Some Hub",
+      "date": "22 August 2022",
+      "time": "16:30",
+      "organizer": "Team Happy"
+    },
+    {
+      "id": 113,
+      "category": "hackathon",
+      "title": "Followup Event",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "location": "Some Hub",
+      "date": "242 August 2022",
+      "time": "16:30",
+      "organizer": "Team Happy"
+    },
+    {
+      "id": 114,
+      "category": "training",
+      "title": "Mystery Event",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "location": "zoom",
+      "date": "26 August 2022",
+      "time": "16:30",
+      "organizer": "Team Happy"
+    },
+    {
+      "id": 115,
+      "category": "training",
+      "title": "Play Event",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "location": "Some Hub",
+      "date": "28 August 2022",
+      "time": "16:30",
+      "organizer": "Team Happy"
+    }
+  ]
+}
